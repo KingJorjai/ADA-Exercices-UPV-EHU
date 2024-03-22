@@ -1,7 +1,7 @@
 # Folders
 /Juegos/
 /Prueba/
-/*/.vscode/
+/.vscode/
 
 # Object file
 *.o
