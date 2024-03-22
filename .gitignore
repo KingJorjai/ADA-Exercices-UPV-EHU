@@ -1,0 +1,13 @@
+# Folders
+/Juegos/
+/Prueba/
+/.vscode/
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+# Executable files
+*.exe

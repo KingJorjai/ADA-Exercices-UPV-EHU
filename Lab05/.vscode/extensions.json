@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "alessandrodelsole.ada",
+    "adacore.ada",
+    "ms-vscode.cpptools", // Para debugging
+    "ms-ceintl.vscode-language-pack-es", // Imagino que a la gente le gustará el Spanish
+    // A partir de aquí, es totalmente mis recomendaciones
+    "oderwat.indent-rainbow",
+    "vscode-icons-team.vscode-icons"
+    //,"gitduck.code-streaming"
+  ]
+}
